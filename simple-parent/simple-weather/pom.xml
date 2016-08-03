@@ -7,10 +7,9 @@
   <parent>
     <groupId>org.sonatype.mavenbook.krishna</groupId>
     <artifactId>mypro</artifactId>
-    <version>0.9-SNAPSHOT</version>
+    <version>0.8-SNAPSHOT</version>
   </parent>
   <artifactId>simple-weather</artifactId>
-  <version>0.8-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>Multi Chapter Simple Weather API</name>

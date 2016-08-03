@@ -9,7 +9,6 @@
     <artifactId>mypro</artifactId>
     <version>0.8-SNAPSHOT</version>
   </parent>
-
   <artifactId>simple-webapp</artifactId>
   <packaging>war</packaging>
   <name>Multi Chapter Simple Web Application Project</name>

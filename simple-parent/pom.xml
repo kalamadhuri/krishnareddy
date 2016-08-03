@@ -10,7 +10,6 @@
   	<version>0.8-SNAPSHOT</version>
   </parent>
   <artifactId>mypro</artifactId>
-  <version>0.8-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Multi Chapter Simple Parent Project</name>
  
